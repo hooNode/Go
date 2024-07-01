@@ -1,0 +1,2 @@
+go test fuzz v1
+string("He\xa0\xfb\xfb\xfb\xfb\xfb\xfb\xfblo, world")
